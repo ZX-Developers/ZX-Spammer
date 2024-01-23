@@ -1,2 +1,2 @@
-# ZX-Spammer
-Powerful Spammer For Poketwo
+## ZX Spammer
+## More Info : https://discord.gg/sc6qubVg
